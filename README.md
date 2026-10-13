@@ -27,4 +27,4 @@ Transforma qualquer música numa aula de bateria para bateria eletrônica: separ
 
 ## Contato
 
-[LinkedIn](https://www.linkedin.com/in/SEU-PERFIL) · [E-mail](mailto:fernando.vaf94@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/fernando-vieira1994/) · [E-mail](mailto:fernando.vaf94@gmail.com)
