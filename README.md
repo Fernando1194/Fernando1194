@@ -1,6 +1,6 @@
 # Fernando Filho
 
-Product developer based in Curitiba, Brazil. I build complete tools, from the problem to the deploy: I understand what hurts for the people using it, measure the result and ship it to production. Before writing software I spent 8 years in e-commerce operations (Mercado Livre, MadeiraMadeira), which is where the habit of measuring everything comes from.
+Product developer based in Curitiba, Brazil. I build complete tools, from the problem to the deploy: I understand what hurts for the people using it, measure the result and ship it to production. Before writing software I spent 8 years in e-commerce logtechs operations (Mercado Livre, MadeiraMadeira), which is where the habit of measuring everything comes from.
 
 ## Projects
 
