@@ -4,8 +4,8 @@ Product developer based in Curitiba, Brazil. I build complete tools, from the pr
 
 ## Projects
 
-### [Ewind](https://github.com/Fernando1194/ewind-marketplace) · [ewind.com.br](https://ewind.com.br)
-Free platform to plan events from start to finish: contracts with payment installments, a timeline, guest lists with Excel import, a checklist with deadlines, a quote comparison tool and a drag-and-drop seating chart. Live in production (interface in Brazilian Portuguese).
+### [Ewind](https://github.com/Fernando1194/ewind-marketplace) · [ewind.com.br](https://ewind.com.br) · [live demo](https://ewind.com.br/demo)
+Free platform to plan events from start to finish: contracts with payment installments, a timeline, guest lists with Excel import, a checklist with deadlines, a quote comparison tool and a drag-and-drop seating chart. Live in production (interface in Brazilian Portuguese), with a public demo that has fictitious data and a guided tour of every feature.
 
 `React` `TypeScript` `Vite` `Supabase (PostgreSQL, Auth, RLS)` `Vercel Functions`
 
